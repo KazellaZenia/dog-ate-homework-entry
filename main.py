@@ -8,6 +8,7 @@ got eaten, to $MAKEFUN_OUTPUT_DIR/entry.txt. Nothing else is written.
 import os
 
 LINE = "The math homework had 47 problems and zero treats, so I fixed the ratio."
+# The dog's logic: 47 problems, zero treats — an unfair ratio worth fixing.
 
 
 def main() -> None:
